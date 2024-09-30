@@ -1,0 +1,15 @@
+# Non serve tenere i file contenenti dati, uploaderò il codice dei notebook (con i checkpoints) e la presentazione dei risultati
+
+# Ignora i file di memorizzazione persistente
+*.db
+*.db-shm
+*.db-wal
+
+# Ignora i file .json (che contengono dati e credenziali)
+*.json
+
+# Ignora i file .csv
+*.csv
+
+# Ignora i file .gexf
+*.gexf
